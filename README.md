@@ -1,2 +1,4 @@
 # persist
-ShuAnzai will persist
+# ShuAnzai will persist
+
+print ('Hello world!')
